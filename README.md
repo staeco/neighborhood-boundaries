@@ -1,7 +1,3 @@
-<p align='center'>
-  <img src='https://i.imgur.com/JXSMT0k.png' width='400'/>
-</p>
-
 # neighborhood-boundaries [![NPM version][npm-image]][npm-url] [![Downloads][downloads-image]][npm-url]
 
 Downloads and converts Zillow neighborhood data for the United States.
@@ -21,7 +17,7 @@ import import from 'neighborhood-boundaries'
 
 import({
   // this function is called every time a record is parsed
-  onBoundary: (objectType, doc, cb) => {
+  onBoundary: (doc, cb) => {
     cb() // make sure to call the cb
   },
 
