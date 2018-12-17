@@ -14,14 +14,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/contra/neighborhood-boundaries.git"
+    "url": "git+https://github.com/staeco/neighborhood-boundaries.git"
   },
   "author": "Contra <yo@contra.io> (http://contra.io)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/contra/neighborhood-boundaries/issues"
+    "url": "https://github.com/staeco/neighborhood-boundaries/issues"
   },
-  "homepage": "https://github.com/contra/neighborhood-boundaries#readme",
+  "homepage": "https://github.com/staeco/neighborhood-boundaries#readme",
   "files": [
     "src",
     "dist",
